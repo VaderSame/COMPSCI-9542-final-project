@@ -57,4 +57,4 @@ Potential areas for further exploration include:
 We would like to thank the contributors of the open-source libraries and frameworks used in this project. Special thanks to the authors of the Vision Transformer paper for their groundbreaking work.
 
 ## Contact
-For any questions or feedback, please contact [your email address].
+For any questions or feedback, please contact [sshastr@uwo.ca].
